@@ -1,0 +1,18 @@
+{
+  "source_system": "Mailchimp",
+  "standard": {
+    "Email Address": "email",
+    "First Name": "first_name",
+    "Last Name": "last_name",
+    "Phone": "phone"
+  },
+  "custom": {
+    "Company": "company",
+    "Country": "country"
+  },
+  "tags_column": "TAGS",
+  "tags_delimiter": ",",
+  "consent_status_column": "Status",
+  "consent_date_column": "Opt-in Date",
+  "source_system_note": "Maps a Mailchimp audience export onto the canonical model, ready for a FluentCRM import."
+}

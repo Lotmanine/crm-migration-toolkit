@@ -1,0 +1,13 @@
+id,Email Address,First Name,Last Name,Phone,Company,Country,TAGS,Status,Opt-in Date
+1001,alice@example.com,Alice,Martin,+1 (415) 555-0100,Acme Co,US,"vip,newsletter",subscribed,2024-02-11
+1002,bob@example.com,Bob,Nguyen,415-555-0142,Globex,US,newsletter,subscribed,2024-03-02
+1003,carol@example.com,Carol,Diaz,,,FR,newsletter,unsubscribed,2023-11-20
+1004,dave@example.com,Dave,Okoro,+44 20 7946 0958,,GB,trial,pending,2024-05-01
+1005,erin@example.com,Erin,Smith,,Initech,US,newsletter,cleaned,2023-08-14
+1006,Alice@Example.com,Alice,Martin,+1 (415) 555-0100,Acme Co,US,vip,subscribed,2024-02-11
+1007,notanemail,Frank,Lee,,,US,newsletter,subscribed,2024-01-05
+1008,frank@example.com,Frank,Lee,555.0188,,US,newsletter,subscribed,2024-01-05
+1009,grace@example.com,Grace,Hopper,,,US,"vip,beta",subscribed,2024-04-22
+1010,heidi@example.com,Heidi,Klum,+49 30 901820,,DE,newsletter,active,2024-04-30
+1011,ivan@example.com,Ivan,Petrov,,,RU,newsletter,unsubscribed,2023-12-01
+1012,judy@example.com,Judy,Wong,,,SG,beta,subscribed,2024-05-09
