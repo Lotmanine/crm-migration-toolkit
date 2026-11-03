@@ -1,5 +1,7 @@
 # crm-migration-toolkit
 
+[![Tests](https://github.com/Lotmanine/crm-migration-toolkit/actions/workflows/tests.yml/badge.svg)](https://github.com/Lotmanine/crm-migration-toolkit/actions/workflows/tests.yml)
+
 A small, **dependency-free** (Python standard library only) pipeline for migrating contacts between CRM/ESP platforms the way a real migration should be done: every source row is accounted for, consent and its provenance survive the move, and the result is **reconciled** before anyone imports it.
 
 Built as a reusable tool and shipped with synthetic sample data so it runs end to end out of the box. This is the pattern I use on client migrations (Mailchimp / ActiveCampaign / Klaviyo / Keap / HubSpot → FluentCRM and others); the client data is never in the repo.
