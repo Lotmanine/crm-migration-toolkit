@@ -69,6 +69,15 @@ python -m unittest discover -s tests -t .
 - **Different source?** Edit `samples/mapping.json` to match its export columns.
 - **Different target?** `write_target_csv()` in [`crm_migrate/pipeline.py`](crm_migrate/pipeline.py) emits a FluentCRM-shaped CSV; change the header list / row builder for Klaviyo, ActiveCampaign, etc.
 
+## Author
+
+Built by **Lotfi Otmanine**, senior WordPress developer at [OLDEV](https://oldev.site).
+
+- Website: [oldev.site](https://oldev.site)
+- Hire me on Upwork: [upwork.com/freelancers/~01bd748fcb665b90ca](https://www.upwork.com/freelancers/~01bd748fcb665b90ca)
+- LinkedIn: [linkedin.com/in/lotfi-otmanine](https://www.linkedin.com/in/lotfi-otmanine)
+- GitHub: [github.com/Lotmanine](https://github.com/Lotmanine)
+
 ## License
 
 MIT.
